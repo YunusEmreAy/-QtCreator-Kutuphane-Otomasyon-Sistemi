@@ -55,3 +55,7 @@ Sistem, **Qt Creator** ile geliştirilmiştir ve aşağıdaki bileşenleri içer
 - C++ Derleyici
 - SQLite (Veri tabanı için önerilir)
 
+------------
+**Videolu Anlatım için Aşağıdaki Linki Kullanabilirsiniz.**
+
+[Videolu Anlatım](https://youtu.be/_8_T32Hn_Wk "Videolu Anlatım")
